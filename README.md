@@ -1,2 +1,8 @@
 # homelab
-[x] setting up server init script
+## Todos
+- [x] setting up first compose
+- [ ] architecture diagram
+
+## Images
+ - portainer
+ - qbittorrent
